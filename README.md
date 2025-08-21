@@ -8,7 +8,29 @@
 
 ## 📂 Estrutura de pasta
 
-
+```
+📦 
+├─ .gitignore
+├─ .vscode
+│  └─ settings.json
+├─ README.md
+├─ bin
+│  ├─ Main.class
+│  └─ br/com/dio/desafio/dominio
+│     ├─ Bootcamp.class
+│     ├─ Conteudo.class
+│     ├─ Curso.class
+│     ├─ Dev.class
+│     └─ Mentoria.class
+└─ src
+   ├─ Main.java
+   └─ br/com/dio/desafio/dominio
+      ├─ Bootcamp.java
+      ├─ Conteudo.java
+      ├─ Curso.java
+      ├─ Dev.java
+      └─ Mentoria.java
+```
 
 ## ⚙️ Terminal: Saida teste
 ```bash
@@ -71,3 +93,9 @@ Conteudo Concluidos João: []
 XP: 0.0
 =============================
 ```
+
+<div align="center">
+  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alicelspires.DIO-desafio-poo&left_color=grey&right_color=black&left_text=Visitors)
+
+</div>
