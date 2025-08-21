@@ -3,7 +3,8 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span>DIO - desafio POO</span>
 </h1>
-Desafio de Projeto: colocando em prática as principais ferramentas de Orientação a Objetos: Abstração, Encapsulamento, Herança e Polimorfismo, através de um projeto Java.
+
+[Desafio de Projeto](https://github.com/cami-la/desafio-poo-dio): colocando em prática as principais ferramentas de Orientação a Objetos: Abstração, Encapsulamento, Herança e Polimorfismo, através de um projeto Java.
 
 ## 📂 Estrutura de pasta
 
