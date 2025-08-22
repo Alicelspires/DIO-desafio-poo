@@ -11,8 +11,6 @@
 ```
 📦 
 ├─ .gitignore
-├─ .vscode
-│  └─ settings.json
 ├─ README.md
 ├─ bin
 │  ├─ Main.class
@@ -33,7 +31,7 @@
 ```
 
 ## ⚙️ Terminal: Saida teste
-```bash
+```
 =============================
 Conteudo Inscritos Alice: [
 Curso =======================
